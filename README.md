@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You can visit my blog at [tlyrs7314.github.io](https://tlyrs7314.github.io)!
+
+I mostly write about tech / CTF stuffs, and I'm also trying to write on other topics.
+
 <!--
 **tlyrs7314/tlyrs7314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
